@@ -2,8 +2,8 @@
 
 print  "i m Saurabh\n";
 
-print "Learning Openshift \n  <br />";
+print "Learning RedHat \n  <br />";
 
-print "Learning Openshift \n  <br />";
+print " Openshift \n  <br />";
 
 ?>
